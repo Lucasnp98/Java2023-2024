@@ -1,6 +1,0 @@
-Audi 2021 2027
-Nombre: Pepe Edad: 58 NIF: 18920K
-Seat 2023 2027
-Nombre: Ana Edad: 28 NIF: 15467J
-Golf 2000 2025
-Nombre: Dani Edad: 24 NIF: 1234J
